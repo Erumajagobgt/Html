@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', monospace;
+}
+
+nav {
+   background-color: #000000;
+   color: #fffefe;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+   padding-bottom: 30px;
+}
+
+nav a {
+    background-color: #1b2946;
+    text-decoration: none;
+    color: #fffefe;
+    font-family: 'Poppins', monospace;
+}
+
+nav a {
+    border: 1px solid #5e5e69;
+    border-radius: 10px;
+    margin-left: auto;
+    padding: 10px 20px;
+}
